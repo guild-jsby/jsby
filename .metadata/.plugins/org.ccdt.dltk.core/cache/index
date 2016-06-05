@@ -1,0 +1,700 @@
+<?xml version="1.0" encoding="ASCII"?>
+<cache:CacheIndex xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:cache="http://eclipse.org/dltk/cache_model" lastIndex="80" environment="org.ccdt.dltk.core.environment.localEnvironment">
+  <entries path="E:/git-jsby/jsby/jsby/src/cocos/cocosdenshion/DeprecatedCocosDenshionClass.lua" timestamp="1465125795184" lastAccessTime="1465125891003"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/cocos/cocosdenshion" timestamp="1465125795185" lastAccessTime="1465125894978">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="959585215/2328810495/1.idx"/>
+  </entries>
+  <entries path="E:/git-jsby/jsby/jsby/src/cocos/extension/DeprecatedExtensionFunc.lua" timestamp="1465125795193" lastAccessTime="1465125891287"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/cocos/extension" timestamp="1465125795194" lastAccessTime="1465125895136">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="959585215/2328810495/3.idx"/>
+  </entries>
+  <entries path="E:/git-jsby/jsby/jsby/src/framework/luaj.lua" timestamp="1465125795282" lastAccessTime="1465125891293"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/framework" timestamp="1465125795289" lastAccessTime="1465125895455">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="959585215/2042222835/5.idx"/>
+  </entries>
+  <entries path="E:/git-jsby/jsby/jsby/src/framework/cc/ui/UIGroup.lua" timestamp="1465125795238" lastAccessTime="1465125891306"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/framework/cc/ui" timestamp="1465125795251" lastAccessTime="1465125895482">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="959585215/872766525/7.idx"/>
+  </entries>
+  <entries path="E:/git-jsby/jsby/jsby/src/framework/cc/ui/UIButton.lua" timestamp="1465125795235" lastAccessTime="1465125891334"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/framework/functions.lua" timestamp="1465125795279" lastAccessTime="1465125891407"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/framework/cc/ui/UIStretch.lua" timestamp="1465125795251" lastAccessTime="1465125891557"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/framework/cc/EventProxy.lua" timestamp="1465125795223" lastAccessTime="1465125891569"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/framework/cc" timestamp="1465125795256" lastAccessTime="1465125895291">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="959585215/3259942483/9.idx"/>
+  </entries>
+  <entries path="E:/git-jsby/jsby/jsby/src/framework/cc/utils/ByteArray.lua" timestamp="1465125795258" lastAccessTime="1465125891579"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/framework/cc/utils" timestamp="1465125795263" lastAccessTime="1465125895503">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="959585215/872766525/11.idx"/>
+  </entries>
+  <entries path="E:/git-jsby/jsby/jsby/src/cocos/init.lua" timestamp="1465125795195" lastAccessTime="1465125891646"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/cocos" timestamp="1465125795200" lastAccessTime="1465125891646">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="959585215/2042222835/13.idx"/>
+  </entries>
+  <entries path="E:/git-jsby/jsby/jsby/src/framework/cc/utils/Gettext.lua" timestamp="1465125795261" lastAccessTime="1465125891651"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/framework/cocos2dx.lua" timestamp="1465125795273" lastAccessTime="1465125891684"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/framework/device.lua" timestamp="1465125795277" lastAccessTime="1465125891687"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/framework/init.lua" timestamp="1465125795281" lastAccessTime="1465125891718"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/framework/cc/mvc/ModelBase.lua" timestamp="1465125795227" lastAccessTime="1465125891734"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/framework/cc/mvc" timestamp="1465125795227" lastAccessTime="1465125894111">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="959585215/872766525/15.idx"/>
+  </entries>
+  <entries path="E:/git-jsby/jsby/jsby/src/framework/cc/utils/bit.lua" timestamp="1465125795257" lastAccessTime="1465125891748"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/cocos/ui/GuiConstants.lua" timestamp="1465125795203" lastAccessTime="1465125891776"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/cocos/ui" timestamp="1465125795203" lastAccessTime="1465125894037">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="959585215/2328810495/17.idx"/>
+  </entries>
+  <entries path="E:/git-jsby/jsby/jsby/src/cocos/cocos2d/DeprecatedOpenglEnum.lua" timestamp="1465125795174" lastAccessTime="1465125891792"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/cocos/cocos2d" timestamp="1465125795180" lastAccessTime="1465125895535">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="959585215/2328810495/19.idx"/>
+  </entries>
+  <entries path="E:/git-jsby/jsby/jsby/src/framework/cc/ui/UICheckBoxButton.lua" timestamp="1465125795236" lastAccessTime="1465125891872"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/framework/cocos2dx/ActionEx.lua" timestamp="1465125795264" lastAccessTime="1465125891904"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/framework/cocos2dx" timestamp="1465125795272" lastAccessTime="1465125895618">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="959585215/3259942483/21.idx"/>
+  </entries>
+  <entries path="E:/git-jsby/jsby/jsby/src/cocos/cocos2d/luaj.lua" timestamp="1465125795178" lastAccessTime="1465125892008"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/framework/cocos2dx/NodeEx.lua" timestamp="1465125795269" lastAccessTime="1465125892016"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/cocos/cocostudio/DeprecatedCocoStudioClass.lua" timestamp="1465125795187" lastAccessTime="1465125892065"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/cocos/cocostudio" timestamp="1465125795189" lastAccessTime="1465125895400">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="959585215/2328810495/23.idx"/>
+  </entries>
+  <entries path="E:/git-jsby/jsby/jsby/src/cocos/extension/DeprecatedExtensionEnum.lua" timestamp="1465125795192" lastAccessTime="1465125892097"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/cocos/cocos2d/extern.lua" timestamp="1465125795176" lastAccessTime="1465125892104"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/framework/cc/net/SocketTCP.lua" timestamp="1465125795229" lastAccessTime="1465125892121"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/framework/cc/net" timestamp="1465125795229" lastAccessTime="1465125894555">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="959585215/872766525/25.idx"/>
+  </entries>
+  <entries path="E:/git-jsby/jsby/jsby/src/cocos/ui/experimentalUIConstants.lua" timestamp="1465125795202" lastAccessTime="1465125892171"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/cocos/extension/DeprecatedExtensionClass.lua" timestamp="1465125795192" lastAccessTime="1465125892173"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/cocos/cocos2d/Cocos2d.lua" timestamp="1465125795168" lastAccessTime="1465125892185"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/framework/shortcodes.lua" timestamp="1465125795288" lastAccessTime="1465125892265"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/framework/luaoc.lua" timestamp="1465125795283" lastAccessTime="1465125892359"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/framework/cocos2dx/StudioConstants.lua" timestamp="1465125795272" lastAccessTime="1465125892366"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/cocos/cocos2d/DeprecatedCocos2dEnum.lua" timestamp="1465125795171" lastAccessTime="1465125892368"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/framework/cc/ui/UIImage.lua" timestamp="1465125795239" lastAccessTime="1465125892445"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/framework/cc/utils/Localize.lua" timestamp="1465125795262" lastAccessTime="1465125892459"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/framework/debug.lua" timestamp="1465125795275" lastAccessTime="1465125892467"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/framework/cc/sdk/Store.lua" timestamp="1465125795232" lastAccessTime="1465125892497"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/framework/cc/sdk" timestamp="1465125795232" lastAccessTime="1465125892497">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="959585215/872766525/27.idx"/>
+  </entries>
+  <entries path="E:/git-jsby/jsby/jsby/src/framework/cc/components/Component.lua" timestamp="1465125795218" lastAccessTime="1465125892541"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/framework/cc/components" timestamp="1465125795219" lastAccessTime="1465125892542">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="959585215/872766525/29.idx"/>
+  </entries>
+  <entries path="E:/git-jsby/jsby/jsby/src/framework/anysdkConst.lua" timestamp="1465125795214" lastAccessTime="1465125892551"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/framework/cc/ui/UICheckBoxButtonGroup.lua" timestamp="1465125795238" lastAccessTime="1465125892561"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/framework/cc/uiloader/CCSSceneLoader.lua" timestamp="1465125795252" lastAccessTime="1465125892583"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/framework/cc/uiloader" timestamp="1465125795256" lastAccessTime="1465125895370">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="959585215/872766525/31.idx"/>
+  </entries>
+  <entries path="E:/git-jsby/jsby/jsby/src/framework/cc/uiloader/UILoaderUtilitys.lua" timestamp="1465125795256" lastAccessTime="1465125892603"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/framework/cc/GameObject.lua" timestamp="1465125795223" lastAccessTime="1465125892616"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/framework/cocos2dx/SpriteEx.lua" timestamp="1465125795272" lastAccessTime="1465125892621"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/framework/ui.lua" timestamp="1465125795290" lastAccessTime="1465125892624"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/framework/cc/init.lua" timestamp="1465125795225" lastAccessTime="1465125892642"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/framework/cc/ui/UIListView.lua" timestamp="1465125795243" lastAccessTime="1465125892650"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/framework/cc/ui/UIPageView.lua" timestamp="1465125795246" lastAccessTime="1465125892823"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/framework/cc/uiloader/CCSUILoader.lua" timestamp="1465125795253" lastAccessTime="1465125892955"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/framework/cc/ui/UILoadingBar.lua" timestamp="1465125795245" lastAccessTime="1465125893164"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/framework/scheduler.lua" timestamp="1465125795287" lastAccessTime="1465125893181"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/cocos/cocos2d/json.lua" timestamp="1465125795177" lastAccessTime="1465125893191"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/framework/display.lua" timestamp="1465125795278" lastAccessTime="1465125893242"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/cocos/cocos2d/DeprecatedCocos2dFunc.lua" timestamp="1465125795173" lastAccessTime="1465125893468"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/cocos/cocostudio/DeprecatedCocoStudioFunc.lua" timestamp="1465125795188" lastAccessTime="1465125893666"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/cocos/cocos2d/Opengl.lua" timestamp="1465125795179" lastAccessTime="1465125893677"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/framework/cc/utils/Timer.lua" timestamp="1465125795263" lastAccessTime="1465125893712"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/framework/transition.lua" timestamp="1465125795288" lastAccessTime="1465125893728"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/framework/cc/ui/UIListViewItem.lua" timestamp="1465125795244" lastAccessTime="1465125893847"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/framework/cc/ui/UISlider.lua" timestamp="1465125795250" lastAccessTime="1465125893865"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/framework/audio.lua" timestamp="1465125795215" lastAccessTime="1465125893952"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/framework/platform/mac.lua" timestamp="1465125795286" lastAccessTime="1465125893989"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/framework/platform" timestamp="1465125795286" lastAccessTime="1465125895322">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="959585215/3259942483/33.idx"/>
+  </entries>
+  <entries path="E:/git-jsby/jsby/jsby/src/framework/cc/components/ui/LayoutProtocol.lua" timestamp="1465125795222" lastAccessTime="1465125893991"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/framework/cc/components/ui" timestamp="1465125795221" lastAccessTime="1465125895611">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="959585215/2028416867/35.idx"/>
+  </entries>
+  <entries path="E:/git-jsby/jsby/jsby/src/cocos/ui/DeprecatedUIEnum.lua" timestamp="1465125795200" lastAccessTime="1465125893997"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/cocos/cocos2d/luaoc.lua" timestamp="1465125795178" lastAccessTime="1465125894021"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/framework/cocos2dx/SceneEx.lua" timestamp="1465125795271" lastAccessTime="1465125894028"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/cocos/ui/DeprecatedUIFunc.lua" timestamp="1465125795201" lastAccessTime="1465125894037"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/cocos/network/DeprecatedNetworkEnum.lua" timestamp="1465125795197" lastAccessTime="1465125894084"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/cocos/network" timestamp="1465125795198" lastAccessTime="1465125895359">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="959585215/2328810495/37.idx"/>
+  </entries>
+  <entries path="E:/git-jsby/jsby/jsby/src/cocos/cocosdenshion/AudioEngine.lua" timestamp="1465125795183" lastAccessTime="1465125894087"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/framework/cc/mvc/AppBase.lua" timestamp="1465125795226" lastAccessTime="1465125894101"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/framework/cc/mvc/init.lua" timestamp="1465125795227" lastAccessTime="1465125894111"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/framework/cc/uiloader/uiloader.lua" timestamp="1465125795255" lastAccessTime="1465125894112"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/framework/deprecated/deprecated_functions.lua" timestamp="1465125795276" lastAccessTime="1465125894142"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/framework/deprecated" timestamp="1465125795276" lastAccessTime="1465125894142">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="959585215/3259942483/39.idx"/>
+  </entries>
+  <entries path="E:/git-jsby/jsby/jsby/src/cocos/cocostudio/StudioConstants.lua" timestamp="1465125795189" lastAccessTime="1465125894143"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/framework/cc/components/ui/BasicLayoutProtocol.lua" timestamp="1465125795219" lastAccessTime="1465125894145"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/framework/cocos2dx/Event.lua" timestamp="1465125795268" lastAccessTime="1465125894163"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/framework/json.lua" timestamp="1465125795282" lastAccessTime="1465125894165"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/framework/cocos2dx/Cocos2dConstants.lua" timestamp="1465125795266" lastAccessTime="1465125894173"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/cocos/cocos2d/OpenglConstants.lua" timestamp="1465125795180" lastAccessTime="1465125894272"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/framework/filter.lua" timestamp="1465125795278" lastAccessTime="1465125894432"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/main.lua" timestamp="1465125794375" lastAccessTime="1465125894448"/>
+  <entries path="E:/git-jsby/jsby/jsby/src" timestamp="1465125795213" lastAccessTime="1465125895479">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="959585215/3647320240/41.idx"/>
+  </entries>
+  <entries path="E:/git-jsby/jsby/jsby/src/cocos/network/DeprecatedNetworkFunc.lua" timestamp="1465125795197" lastAccessTime="1465125894451"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/framework/cc/ui/UILayout.lua" timestamp="1465125795242" lastAccessTime="1465125894457"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/cocos/cocos2d/bitExtend.lua" timestamp="1465125795167" lastAccessTime="1465125894480"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/cocos/controller/ControllerConstants.lua" timestamp="1465125795190" lastAccessTime="1465125894494"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/cocos/controller" timestamp="1465125795190" lastAccessTime="1465125894494">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="959585215/2328810495/43.idx"/>
+  </entries>
+  <entries path="E:/git-jsby/jsby/jsby/src/framework/global.lua" timestamp="1465125795280" lastAccessTime="1465125894497"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/framework/cc/components/behavior/StateMachine.lua" timestamp="1465125795217" lastAccessTime="1465125894513"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/framework/cc/components/behavior" timestamp="1465125795217" lastAccessTime="1465125895114">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="959585215/2028416867/45.idx"/>
+  </entries>
+  <entries path="E:/git-jsby/jsby/jsby/src/framework/cc/net/init.lua" timestamp="1465125795228" lastAccessTime="1465125894555"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/framework/cc/ui/UIScrollView.lua" timestamp="1465125795249" lastAccessTime="1465125894557"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/app/MyApp.lua" timestamp="1465125794373" lastAccessTime="1465125894729"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/app" timestamp="1465125794373" lastAccessTime="1465125894729">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="959585215/2042222835/47.idx"/>
+  </entries>
+  <entries path="E:/git-jsby/jsby/jsby/src/cocos/cocosbuilder/DeprecatedCocosBuilderClass.lua" timestamp="1465125795182" lastAccessTime="1465125894732"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/cocos/cocosbuilder" timestamp="1465125795182" lastAccessTime="1465125895327">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="959585215/2328810495/49.idx"/>
+  </entries>
+  <entries path="E:/git-jsby/jsby/jsby/src/framework/cc/ui/UILabel.lua" timestamp="1465125795241" lastAccessTime="1465125894736"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/framework/network.lua" timestamp="1465125795284" lastAccessTime="1465125894744"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/cocos/cocos2d/DeprecatedCocos2dClass.lua" timestamp="1465125795170" lastAccessTime="1465125894770"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/cocos/cocosdenshion/DeprecatedCocosDenshionFunc.lua" timestamp="1465125795185" lastAccessTime="1465125894978"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/cocos/cocos2d/DrawPrimitives.lua" timestamp="1465125795175" lastAccessTime="1465125894982"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/cocos/network/NetworkConstants.lua" timestamp="1465125795198" lastAccessTime="1465125895092"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/framework/cocos2dx/DrawNodeEx.lua" timestamp="1465125795267" lastAccessTime="1465125895104"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/framework/cc/components/behavior/EventProtocol.lua" timestamp="1465125795216" lastAccessTime="1465125895114"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/cocos/extension/ExtensionConstants.lua" timestamp="1465125795194" lastAccessTime="1465125895136"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/cocos/spine/SpineConstants.lua" timestamp="1465125795199" lastAccessTime="1465125895146"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/cocos/spine" timestamp="1465125795199" lastAccessTime="1465125895146">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="959585215/2328810495/51.idx"/>
+  </entries>
+  <entries path="E:/git-jsby/jsby/jsby/src/framework/cocos2dx/Cocos2d.lua" timestamp="1465125795265" lastAccessTime="1465125895147"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/framework/platform/android.lua" timestamp="1465125795285" lastAccessTime="1465125895221"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/framework/cc/ui/UIBoxLayout.lua" timestamp="1465125795234" lastAccessTime="1465125895224"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/framework/cc/ui/UIPageViewItem.lua" timestamp="1465125795247" lastAccessTime="1465125895267"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/framework/cc/ui/UIPushButton.lua" timestamp="1465125795248" lastAccessTime="1465125895270"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/framework/cc/Registry.lua" timestamp="1465125795230" lastAccessTime="1465125895291"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/framework/platform/ios.lua" timestamp="1465125795285" lastAccessTime="1465125895322"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/cocos/cocosbuilder/CCBReaderLoad.lua" timestamp="1465125795181" lastAccessTime="1465125895327"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/cocos/network/DeprecatedNetworkClass.lua" timestamp="1465125795196" lastAccessTime="1465125895358"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/framework/cc/ui/init.lua" timestamp="1465125795233" lastAccessTime="1465125895361"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/framework/cc/uiloader/init.lua" timestamp="1465125795254" lastAccessTime="1465125895370"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/framework/cc/utils/GameState.lua" timestamp="1465125795260" lastAccessTime="1465125895371"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/framework/cc/utils/init.lua" timestamp="1465125795262" lastAccessTime="1465125895394"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/app/scenes/MainScene.lua" timestamp="1465125794374" lastAccessTime="1465125895396"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/app/scenes" timestamp="1465125794374" lastAccessTime="1465125895397">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="959585215/3836594177/53.idx"/>
+  </entries>
+  <entries path="E:/git-jsby/jsby/jsby/src/cocos/cocostudio/CocoStudio.lua" timestamp="1465125795186" lastAccessTime="1465125895400"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/framework/crypto.lua" timestamp="1465125795274" lastAccessTime="1465125895455"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/config.lua" timestamp="1465125794374" lastAccessTime="1465125895479"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/framework/cc/ui/UIInput.lua" timestamp="1465125795240" lastAccessTime="1465125895482"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/framework/cc/utils/ByteArrayVarint.lua" timestamp="1465125795259" lastAccessTime="1465125895503"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/cocos/cocos2d/Cocos2dConstants.lua" timestamp="1465125795169" lastAccessTime="1465125895535"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/framework/cc/components/ui/DraggableProtocol.lua" timestamp="1465125795220" lastAccessTime="1465125895611"/>
+  <entries path="E:/git-jsby/jsby/jsby/src/framework/cocos2dx/OpenglConstants.lua" timestamp="1465125795270" lastAccessTime="1465125895618"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/Action.lua" timestamp="1465125837824" lastAccessTime="1465125924367"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api" timestamp="1465125838930" lastAccessTime="1465125944874">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="959585215/352748434/55.idx"/>
+  </entries>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/ActionCamera.lua" timestamp="1465125837826" lastAccessTime="1465125924417"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/ActionEase.lua" timestamp="1465125837827" lastAccessTime="1465125924467"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/ActionFadeFrame.lua" timestamp="1465125837839" lastAccessTime="1465125924517"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/ActionFrame.lua" timestamp="1465125837841" lastAccessTime="1465125924567"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/ActionInstant.lua" timestamp="1465125837843" lastAccessTime="1465125924617"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/ActionInterval.lua" timestamp="1465125837844" lastAccessTime="1465125924667"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/ActionManager.lua" timestamp="1465125837858" lastAccessTime="1465125924717"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/ActionManagerEx.lua" timestamp="1465125837860" lastAccessTime="1465125924767"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/ActionMoveFrame.lua" timestamp="1465125837861" lastAccessTime="1465125924817"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/ActionObject.lua" timestamp="1465125837863" lastAccessTime="1465125924867"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/ActionRotationFrame.lua" timestamp="1465125837864" lastAccessTime="1465125924917"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/ActionScaleFrame.lua" timestamp="1465125837866" lastAccessTime="1465125924967"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/ActionTimeline.lua" timestamp="1465125837880" lastAccessTime="1465125925017"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/ActionTimelineCache.lua" timestamp="1465125837882" lastAccessTime="1465125925067"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/ActionTimelineData.lua" timestamp="1465125837883" lastAccessTime="1465125925117"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/ActionTintFrame.lua" timestamp="1465125837885" lastAccessTime="1465125925167"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/ActionTween.lua" timestamp="1465125837887" lastAccessTime="1465125925217"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/AmbientLight.lua" timestamp="1465125837888" lastAccessTime="1465125925267"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/AnchorPointFrame.lua" timestamp="1465125837890" lastAccessTime="1465125925317"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/Animate.lua" timestamp="1465125837988" lastAccessTime="1465125925367"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/Animate3D.lua" timestamp="1465125837994" lastAccessTime="1465125925417"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/Animation.lua" timestamp="1465125837999" lastAccessTime="1465125925467"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/Animation3D.lua" timestamp="1465125838006" lastAccessTime="1465125925517"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/AnimationCache.lua" timestamp="1465125838011" lastAccessTime="1465125925567"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/AnimationData.lua" timestamp="1465125838017" lastAccessTime="1465125925617"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/AnimationFrame.lua" timestamp="1465125838023" lastAccessTime="1465125925667"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/Application.lua" timestamp="1465125838046" lastAccessTime="1465125925717"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/Armature.lua" timestamp="1465125838048" lastAccessTime="1465125925767"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/ArmatureAnimation.lua" timestamp="1465125838050" lastAccessTime="1465125925817"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/ArmatureData.lua" timestamp="1465125838053" lastAccessTime="1465125925867"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/ArmatureDataManager.lua" timestamp="1465125838055" lastAccessTime="1465125925917"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/ArmatureDisplayData.lua" timestamp="1465125838057" lastAccessTime="1465125925968"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/AssetsManager.lua" timestamp="1465125838060" lastAccessTime="1465125926018"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/AssetsManagerEx.lua" timestamp="1465125838062" lastAccessTime="1465125926068"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/AtlasNode.lua" timestamp="1465125838064" lastAccessTime="1465125926119"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/AttachNode.lua" timestamp="1465125838067" lastAccessTime="1465125926170"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/AudioEngine.lua" timestamp="1465125838069" lastAccessTime="1465125926221"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/AudioProfile.lua" timestamp="1465125838072" lastAccessTime="1465125926272"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/BaseData.lua" timestamp="1465125838074" lastAccessTime="1465125926324"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/BaseLight.lua" timestamp="1465125838077" lastAccessTime="1465125926375"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/BatchNode.lua" timestamp="1465125838079" lastAccessTime="1465125926426"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/BezierBy.lua" timestamp="1465125838081" lastAccessTime="1465125926477"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/BezierTo.lua" timestamp="1465125838084" lastAccessTime="1465125926528"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/BillBoard.lua" timestamp="1465125838086" lastAccessTime="1465125926579"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/Blink.lua" timestamp="1465125838088" lastAccessTime="1465125926630"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/Bone.lua" timestamp="1465125838090" lastAccessTime="1465125926681"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/BoneData.lua" timestamp="1465125838094" lastAccessTime="1465125926732"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/Button.lua" timestamp="1465125838096" lastAccessTime="1465125926783"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/CCBAnimationManager.lua" timestamp="1465125838098" lastAccessTime="1465125926834"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/CCBReader.lua" timestamp="1465125838101" lastAccessTime="1465125926885"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/CSLoader.lua" timestamp="1465125838103" lastAccessTime="1465125926936"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/CallFunc.lua" timestamp="1465125838106" lastAccessTime="1465125926987"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/Camera.lua" timestamp="1465125838108" lastAccessTime="1465125927038"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/CardinalSplineBy.lua" timestamp="1465125838111" lastAccessTime="1465125927089"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/CardinalSplineTo.lua" timestamp="1465125838113" lastAccessTime="1465125927140"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/CatmullRomBy.lua" timestamp="1465125838115" lastAccessTime="1465125927191"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/CatmullRomTo.lua" timestamp="1465125838117" lastAccessTime="1465125927242"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/CheckBox.lua" timestamp="1465125838120" lastAccessTime="1465125927293"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/ClippingNode.lua" timestamp="1465125838122" lastAccessTime="1465125927344"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/ClippingRectangleNode.lua" timestamp="1465125838125" lastAccessTime="1465125927394"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/ColorFrame.lua" timestamp="1465125838127" lastAccessTime="1465125927444"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/ComAttribute.lua" timestamp="1465125838130" lastAccessTime="1465125927494"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/ComAudio.lua" timestamp="1465125838132" lastAccessTime="1465125927545"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/ComController.lua" timestamp="1465125838134" lastAccessTime="1465125927595"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/ComRender.lua" timestamp="1465125838136" lastAccessTime="1465125927645"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/Component.lua" timestamp="1465125838139" lastAccessTime="1465125927695"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/Console.lua" timestamp="1465125838141" lastAccessTime="1465125927745"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/ContourData.lua" timestamp="1465125838145" lastAccessTime="1465125927795"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/Control.lua" timestamp="1465125838148" lastAccessTime="1465125927845"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/ControlButton.lua" timestamp="1465125838150" lastAccessTime="1465125927895"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/ControlColourPicker.lua" timestamp="1465125838153" lastAccessTime="1465125927945"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/ControlHuePicker.lua" timestamp="1465125838156" lastAccessTime="1465125927995"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/ControlPotentiometer.lua" timestamp="1465125838158" lastAccessTime="1465125928045"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/ControlSaturationBrightnessPicker.lua" timestamp="1465125838160" lastAccessTime="1465125928095"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/ControlSlider.lua" timestamp="1465125838163" lastAccessTime="1465125928145"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/ControlStepper.lua" timestamp="1465125838165" lastAccessTime="1465125928195"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/ControlSwitch.lua" timestamp="1465125838167" lastAccessTime="1465125928245"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/Controller.lua" timestamp="1465125838170" lastAccessTime="1465125928295"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/DelayTime.lua" timestamp="1465125838172" lastAccessTime="1465125928345"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/Device.lua" timestamp="1465125838175" lastAccessTime="1465125928395"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/DirectionLight.lua" timestamp="1465125838177" lastAccessTime="1465125928445"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/Director.lua" timestamp="1465125838179" lastAccessTime="1465125928495"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/DisplayData.lua" timestamp="1465125838180" lastAccessTime="1465125928546"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/DisplayManager.lua" timestamp="1465125838182" lastAccessTime="1465125928596"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/DrawNode.lua" timestamp="1465125838183" lastAccessTime="1465125928646"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/EaseBackIn.lua" timestamp="1465125838184" lastAccessTime="1465125928696"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/EaseBackInOut.lua" timestamp="1465125838186" lastAccessTime="1465125928746"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/EaseBackOut.lua" timestamp="1465125838187" lastAccessTime="1465125928796"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/EaseBezierAction.lua" timestamp="1465125838188" lastAccessTime="1465125928846"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/EaseBounce.lua" timestamp="1465125838190" lastAccessTime="1465125928896"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/EaseBounceIn.lua" timestamp="1465125838191" lastAccessTime="1465125928946"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/EaseBounceInOut.lua" timestamp="1465125838193" lastAccessTime="1465125928996"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/EaseBounceOut.lua" timestamp="1465125838194" lastAccessTime="1465125929047"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/EaseCircleActionIn.lua" timestamp="1465125838195" lastAccessTime="1465125929097"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/EaseCircleActionInOut.lua" timestamp="1465125838197" lastAccessTime="1465125929147"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/EaseCircleActionOut.lua" timestamp="1465125838198" lastAccessTime="1465125929197"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/EaseCubicActionIn.lua" timestamp="1465125838199" lastAccessTime="1465125929247"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/EaseCubicActionInOut.lua" timestamp="1465125838201" lastAccessTime="1465125929297"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/EaseCubicActionOut.lua" timestamp="1465125838202" lastAccessTime="1465125929347"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/EaseElastic.lua" timestamp="1465125838203" lastAccessTime="1465125929397"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/EaseElasticIn.lua" timestamp="1465125838205" lastAccessTime="1465125929447"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/EaseElasticInOut.lua" timestamp="1465125838206" lastAccessTime="1465125929497"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/EaseElasticOut.lua" timestamp="1465125838208" lastAccessTime="1465125929547"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/EaseExponentialIn.lua" timestamp="1465125838209" lastAccessTime="1465125929597"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/EaseExponentialInOut.lua" timestamp="1465125838210" lastAccessTime="1465125929647"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/EaseExponentialOut.lua" timestamp="1465125838212" lastAccessTime="1465125929697"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/EaseIn.lua" timestamp="1465125838213" lastAccessTime="1465125929747"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/EaseInOut.lua" timestamp="1465125838214" lastAccessTime="1465125929797"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/EaseOut.lua" timestamp="1465125838215" lastAccessTime="1465125929847"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/EaseQuadraticActionIn.lua" timestamp="1465125838217" lastAccessTime="1465125929897"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/EaseQuadraticActionInOut.lua" timestamp="1465125838218" lastAccessTime="1465125929947"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/EaseQuadraticActionOut.lua" timestamp="1465125838219" lastAccessTime="1465125929997"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/EaseQuarticActionIn.lua" timestamp="1465125838221" lastAccessTime="1465125930047"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/EaseQuarticActionInOut.lua" timestamp="1465125838222" lastAccessTime="1465125930097"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/EaseQuarticActionOut.lua" timestamp="1465125838223" lastAccessTime="1465125930147"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/EaseQuinticActionIn.lua" timestamp="1465125838225" lastAccessTime="1465125930197"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/EaseQuinticActionInOut.lua" timestamp="1465125838226" lastAccessTime="1465125930247"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/EaseQuinticActionOut.lua" timestamp="1465125838228" lastAccessTime="1465125930297"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/EaseRateAction.lua" timestamp="1465125838229" lastAccessTime="1465125930347"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/EaseSineIn.lua" timestamp="1465125838230" lastAccessTime="1465125930397"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/EaseSineInOut.lua" timestamp="1465125838232" lastAccessTime="1465125930447"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/EaseSineOut.lua" timestamp="1465125838233" lastAccessTime="1465125930497"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/EditBox.lua" timestamp="1465125838235" lastAccessTime="1465125930547"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/Event.lua" timestamp="1465125838236" lastAccessTime="1465125930597"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/EventAcceleration.lua" timestamp="1465125838237" lastAccessTime="1465125930647"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/EventAssetsManagerEx.lua" timestamp="1465125838239" lastAccessTime="1465125930697"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/EventController.lua" timestamp="1465125838240" lastAccessTime="1465125930747"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/EventCustom.lua" timestamp="1465125838241" lastAccessTime="1465125930797"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/EventDispatcher.lua" timestamp="1465125838242" lastAccessTime="1465125930848"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/EventFocus.lua" timestamp="1465125838242" lastAccessTime="1465125930899"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/EventFrame.lua" timestamp="1465125838243" lastAccessTime="1465125930950"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/EventKeyboard.lua" timestamp="1465125838244" lastAccessTime="1465125931001"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/EventListener.lua" timestamp="1465125838245" lastAccessTime="1465125931052"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/EventListenerAcceleration.lua" timestamp="1465125838246" lastAccessTime="1465125931107"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/EventListenerAssetsManagerEx.lua" timestamp="1465125838247" lastAccessTime="1465125931162"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/EventListenerController.lua" timestamp="1465125838248" lastAccessTime="1465125931212"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/EventListenerCustom.lua" timestamp="1465125838249" lastAccessTime="1465125931262"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/EventListenerFocus.lua" timestamp="1465125838251" lastAccessTime="1465125931312"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/EventListenerKeyboard.lua" timestamp="1465125838252" lastAccessTime="1465125931362"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/EventListenerMouse.lua" timestamp="1465125838252" lastAccessTime="1465125931413"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/EventListenerPhysicsContact.lua" timestamp="1465125838253" lastAccessTime="1465125931463"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/EventListenerPhysicsContactWithBodies.lua" timestamp="1465125838269" lastAccessTime="1465125931513"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/EventListenerPhysicsContactWithGroup.lua" timestamp="1465125838271" lastAccessTime="1465125931563"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/EventListenerPhysicsContactWithShapes.lua" timestamp="1465125838272" lastAccessTime="1465125931613"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/EventListenerTouchAllAtOnce.lua" timestamp="1465125838273" lastAccessTime="1465125931663"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/EventListenerTouchOneByOne.lua" timestamp="1465125838274" lastAccessTime="1465125931713"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/EventMouse.lua" timestamp="1465125838275" lastAccessTime="1465125931763"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/EventTouch.lua" timestamp="1465125838277" lastAccessTime="1465125931813"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/FadeIn.lua" timestamp="1465125838278" lastAccessTime="1465125931863"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/FadeOut.lua" timestamp="1465125838279" lastAccessTime="1465125931913"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/FadeOutBLTiles.lua" timestamp="1465125838281" lastAccessTime="1465125931963"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/FadeOutDownTiles.lua" timestamp="1465125838282" lastAccessTime="1465125932013"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/FadeOutTRTiles.lua" timestamp="1465125838283" lastAccessTime="1465125932063"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/FadeOutUpTiles.lua" timestamp="1465125838284" lastAccessTime="1465125932113"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/FadeTo.lua" timestamp="1465125838285" lastAccessTime="1465125932163"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/FileUtils.lua" timestamp="1465125838287" lastAccessTime="1465125932213"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/FiniteTimeAction.lua" timestamp="1465125838288" lastAccessTime="1465125932263"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/FlipX.lua" timestamp="1465125838289" lastAccessTime="1465125932313"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/FlipX3D.lua" timestamp="1465125838290" lastAccessTime="1465125932363"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/FlipY.lua" timestamp="1465125838291" lastAccessTime="1465125932413"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/FlipY3D.lua" timestamp="1465125838293" lastAccessTime="1465125932463"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/Follow.lua" timestamp="1465125838294" lastAccessTime="1465125932513"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/Frame.lua" timestamp="1465125838295" lastAccessTime="1465125932563"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/FrameData.lua" timestamp="1465125838296" lastAccessTime="1465125932613"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/GLProgram.lua" timestamp="1465125838297" lastAccessTime="1465125932663"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/GLProgramCache.lua" timestamp="1465125838341" lastAccessTime="1465125932713"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/GLProgramState.lua" timestamp="1465125838342" lastAccessTime="1465125932763"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/GLView.lua" timestamp="1465125838354" lastAccessTime="1465125932813"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/GLViewImpl.lua" timestamp="1465125838355" lastAccessTime="1465125932863"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/GUIReader.lua" timestamp="1465125838356" lastAccessTime="1465125932913"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/Grid3D.lua" timestamp="1465125838357" lastAccessTime="1465125932963"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/Grid3DAction.lua" timestamp="1465125838358" lastAccessTime="1465125933013"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/GridAction.lua" timestamp="1465125838359" lastAccessTime="1465125933063"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/GridBase.lua" timestamp="1465125838360" lastAccessTime="1465125933113"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/HBox.lua" timestamp="1465125838361" lastAccessTime="1465125933163"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/Helper.lua" timestamp="1465125838363" lastAccessTime="1465125933213"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/Hide.lua" timestamp="1465125838364" lastAccessTime="1465125933263"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/Image.lua" timestamp="1465125838365" lastAccessTime="1465125933313"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/ImageView.lua" timestamp="1465125838366" lastAccessTime="1465125933363"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/InnerActionFrame.lua" timestamp="1465125838367" lastAccessTime="1465125933413"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/JumpBy.lua" timestamp="1465125838368" lastAccessTime="1465125933463"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/JumpTiles3D.lua" timestamp="1465125838369" lastAccessTime="1465125933513"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/JumpTo.lua" timestamp="1465125838370" lastAccessTime="1465125933563"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/Label.lua" timestamp="1465125838372" lastAccessTime="1465125933613"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/LabelAtlas.lua" timestamp="1465125838373" lastAccessTime="1465125933663"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/Layer.lua" timestamp="1465125838374" lastAccessTime="1465125933713"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/LayerColor.lua" timestamp="1465125838375" lastAccessTime="1465125933763"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/LayerGradient.lua" timestamp="1465125838377" lastAccessTime="1465125933813"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/LayerMultiplex.lua" timestamp="1465125838378" lastAccessTime="1465125933863"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/Layout.lua" timestamp="1465125838379" lastAccessTime="1465125933913"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/LayoutParameter.lua" timestamp="1465125838380" lastAccessTime="1465125933963"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/Lens3D.lua" timestamp="1465125838381" lastAccessTime="1465125934013"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/LinearLayoutParameter.lua" timestamp="1465125838382" lastAccessTime="1465125934063"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/Liquid.lua" timestamp="1465125838384" lastAccessTime="1465125934113"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/ListView.lua" timestamp="1465125838398" lastAccessTime="1465125934163"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/LoadingBar.lua" timestamp="1465125838400" lastAccessTime="1465125934213"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/Manifest.lua" timestamp="1465125838412" lastAccessTime="1465125934263"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/Menu.lua" timestamp="1465125838414" lastAccessTime="1465125934313"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/MenuItem.lua" timestamp="1465125838415" lastAccessTime="1465125934364"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/MenuItemAtlasFont.lua" timestamp="1465125838416" lastAccessTime="1465125934414"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/MenuItemFont.lua" timestamp="1465125838417" lastAccessTime="1465125934464"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/MenuItemImage.lua" timestamp="1465125838419" lastAccessTime="1465125934514"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/MenuItemLabel.lua" timestamp="1465125838420" lastAccessTime="1465125934564"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/MenuItemSprite.lua" timestamp="1465125838421" lastAccessTime="1465125934614"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/MenuItemToggle.lua" timestamp="1465125838422" lastAccessTime="1465125934664"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/Mesh.lua" timestamp="1465125838423" lastAccessTime="1465125934714"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/MotionStreak.lua" timestamp="1465125838424" lastAccessTime="1465125934764"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/MoveBy.lua" timestamp="1465125838426" lastAccessTime="1465125934814"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/MoveTo.lua" timestamp="1465125838427" lastAccessTime="1465125934864"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/MovementBoneData.lua" timestamp="1465125838428" lastAccessTime="1465125934914"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/MovementData.lua" timestamp="1465125838429" lastAccessTime="1465125934964"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/Node.lua" timestamp="1465125838439" lastAccessTime="1465125935014"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/NodeGrid.lua" timestamp="1465125838440" lastAccessTime="1465125935064"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/OrbitCamera.lua" timestamp="1465125838441" lastAccessTime="1465125935114"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/PageTurn3D.lua" timestamp="1465125838443" lastAccessTime="1465125935164"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/PageView.lua" timestamp="1465125838444" lastAccessTime="1465125935214"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/ParallaxNode.lua" timestamp="1465125838445" lastAccessTime="1465125935264"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/ParticleBatchNode.lua" timestamp="1465125838446" lastAccessTime="1465125935314"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/ParticleDisplayData.lua" timestamp="1465125838447" lastAccessTime="1465125935364"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/ParticleExplosion.lua" timestamp="1465125838448" lastAccessTime="1465125935414"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/ParticleFire.lua" timestamp="1465125838450" lastAccessTime="1465125935464"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/ParticleFireworks.lua" timestamp="1465125838451" lastAccessTime="1465125935514"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/ParticleFlower.lua" timestamp="1465125838452" lastAccessTime="1465125935564"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/ParticleGalaxy.lua" timestamp="1465125838453" lastAccessTime="1465125935614"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/ParticleMeteor.lua" timestamp="1465125838454" lastAccessTime="1465125935664"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/ParticleRain.lua" timestamp="1465125838455" lastAccessTime="1465125935714"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/ParticleSmoke.lua" timestamp="1465125838456" lastAccessTime="1465125935764"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/ParticleSnow.lua" timestamp="1465125838457" lastAccessTime="1465125935814"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/ParticleSpiral.lua" timestamp="1465125838458" lastAccessTime="1465125935864"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/ParticleSun.lua" timestamp="1465125838459" lastAccessTime="1465125935914"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/ParticleSystem.lua" timestamp="1465125838460" lastAccessTime="1465125935964"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/ParticleSystemQuad.lua" timestamp="1465125838461" lastAccessTime="1465125936015"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/PhysicsBody.lua" timestamp="1465125838463" lastAccessTime="1465125936065"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/PhysicsContact.lua" timestamp="1465125838464" lastAccessTime="1465125936115"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/PhysicsContactPostSolve.lua" timestamp="1465125838465" lastAccessTime="1465125936165"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/PhysicsContactPreSolve.lua" timestamp="1465125838466" lastAccessTime="1465125936215"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/PhysicsDebugDraw.lua" timestamp="1465125838467" lastAccessTime="1465125936265"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/PhysicsJoint.lua" timestamp="1465125838468" lastAccessTime="1465125936315"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/PhysicsJointDistance.lua" timestamp="1465125838470" lastAccessTime="1465125936365"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/PhysicsJointFixed.lua" timestamp="1465125838471" lastAccessTime="1465125936415"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/PhysicsJointGear.lua" timestamp="1465125838472" lastAccessTime="1465125936465"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/PhysicsJointGroove.lua" timestamp="1465125838474" lastAccessTime="1465125936515"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/PhysicsJointLimit.lua" timestamp="1465125838475" lastAccessTime="1465125936565"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/PhysicsJointMotor.lua" timestamp="1465125838476" lastAccessTime="1465125936615"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/PhysicsJointPin.lua" timestamp="1465125838477" lastAccessTime="1465125936665"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/PhysicsJointRatchet.lua" timestamp="1465125838538" lastAccessTime="1465125936715"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/PhysicsJointRotaryLimit.lua" timestamp="1465125838542" lastAccessTime="1465125936765"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/PhysicsJointRotarySpring.lua" timestamp="1465125838548" lastAccessTime="1465125936815"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/PhysicsJointSpring.lua" timestamp="1465125838554" lastAccessTime="1465125936865"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/PhysicsShape.lua" timestamp="1465125838560" lastAccessTime="1465125936915"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/PhysicsShapeBox.lua" timestamp="1465125838565" lastAccessTime="1465125936965"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/PhysicsShapeCircle.lua" timestamp="1465125838571" lastAccessTime="1465125937015"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/PhysicsShapeEdgeBox.lua" timestamp="1465125838577" lastAccessTime="1465125937066"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/PhysicsShapeEdgeChain.lua" timestamp="1465125838582" lastAccessTime="1465125937117"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/PhysicsShapeEdgePolygon.lua" timestamp="1465125838587" lastAccessTime="1465125937167"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/PhysicsShapeEdgeSegment.lua" timestamp="1465125838593" lastAccessTime="1465125937217"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/PhysicsShapePolygon.lua" timestamp="1465125838598" lastAccessTime="1465125937267"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/PhysicsWorld.lua" timestamp="1465125838603" lastAccessTime="1465125937317"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/Place.lua" timestamp="1465125838610" lastAccessTime="1465125937367"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/PointLight.lua" timestamp="1465125838616" lastAccessTime="1465125937417"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/PositionFrame.lua" timestamp="1465125838621" lastAccessTime="1465125937467"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/ProgressFromTo.lua" timestamp="1465125838627" lastAccessTime="1465125937517"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/ProgressTimer.lua" timestamp="1465125838631" lastAccessTime="1465125937567"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/ProgressTo.lua" timestamp="1465125838633" lastAccessTime="1465125937617"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/ProtectedNode.lua" timestamp="1465125838635" lastAccessTime="1465125937667"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/Ref.lua" timestamp="1465125838638" lastAccessTime="1465125937717"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/RelativeBox.lua" timestamp="1465125838640" lastAccessTime="1465125937767"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/RelativeLayoutParameter.lua" timestamp="1465125838642" lastAccessTime="1465125937817"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/RemoveSelf.lua" timestamp="1465125838660" lastAccessTime="1465125937867"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/RenderTexture.lua" timestamp="1465125838662" lastAccessTime="1465125937917"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/Repeat.lua" timestamp="1465125838664" lastAccessTime="1465125937967"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/RepeatForever.lua" timestamp="1465125838667" lastAccessTime="1465125938017"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/ReuseGrid.lua" timestamp="1465125838669" lastAccessTime="1465125938067"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/RichElement.lua" timestamp="1465125838672" lastAccessTime="1465125938117"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/RichElementCustomNode.lua" timestamp="1465125838674" lastAccessTime="1465125938167"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/RichElementImage.lua" timestamp="1465125838676" lastAccessTime="1465125938240"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/RichElementText.lua" timestamp="1465125838679" lastAccessTime="1465125938291"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/RichText.lua" timestamp="1465125838681" lastAccessTime="1465125938342"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/Ripple3D.lua" timestamp="1465125838684" lastAccessTime="1465125938393"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/RotateBy.lua" timestamp="1465125838686" lastAccessTime="1465125938444"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/RotateTo.lua" timestamp="1465125838688" lastAccessTime="1465125938494"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/RotationFrame.lua" timestamp="1465125838690" lastAccessTime="1465125938544"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/RotationSkewFrame.lua" timestamp="1465125838691" lastAccessTime="1465125938594"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/Scale9Sprite.lua" timestamp="1465125838693" lastAccessTime="1465125938645"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/ScaleBy.lua" timestamp="1465125838695" lastAccessTime="1465125938696"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/ScaleFrame.lua" timestamp="1465125838696" lastAccessTime="1465125938747"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/ScaleTo.lua" timestamp="1465125838698" lastAccessTime="1465125938798"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/Scene.lua" timestamp="1465125838700" lastAccessTime="1465125938849"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/SceneReader.lua" timestamp="1465125838701" lastAccessTime="1465125938899"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/Scheduler.lua" timestamp="1465125838703" lastAccessTime="1465125938950"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/ScrollView.lua" timestamp="1465125838704" lastAccessTime="1465125939001"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/Sequence.lua" timestamp="1465125838706" lastAccessTime="1465125939052"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/Shaky3D.lua" timestamp="1465125838707" lastAccessTime="1465125939103"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/ShakyTiles3D.lua" timestamp="1465125838709" lastAccessTime="1465125939153"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/ShatteredTiles3D.lua" timestamp="1465125838710" lastAccessTime="1465125939203"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/Show.lua" timestamp="1465125838712" lastAccessTime="1465125939253"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/ShuffleTiles.lua" timestamp="1465125838723" lastAccessTime="1465125939303"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/SimpleAudioEngine.lua" timestamp="1465125838724" lastAccessTime="1465125939353"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/Skeleton3D.lua" timestamp="1465125838726" lastAccessTime="1465125939403"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/SkeletonAnimation.lua" timestamp="1465125838727" lastAccessTime="1465125939453"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/SkeletonRenderer.lua" timestamp="1465125838728" lastAccessTime="1465125939503"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/SkewBy.lua" timestamp="1465125838729" lastAccessTime="1465125939553"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/SkewFrame.lua" timestamp="1465125838730" lastAccessTime="1465125939603"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/SkewTo.lua" timestamp="1465125838732" lastAccessTime="1465125939653"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/Skin.lua" timestamp="1465125838733" lastAccessTime="1465125939703"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/Slider.lua" timestamp="1465125838734" lastAccessTime="1465125939753"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/Spawn.lua" timestamp="1465125838735" lastAccessTime="1465125939803"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/Speed.lua" timestamp="1465125838736" lastAccessTime="1465125939853"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/SplitCols.lua" timestamp="1465125838737" lastAccessTime="1465125939903"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/SplitRows.lua" timestamp="1465125838738" lastAccessTime="1465125939953"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/SpotLight.lua" timestamp="1465125838740" lastAccessTime="1465125940003"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/Sprite.lua" timestamp="1465125838741" lastAccessTime="1465125940053"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/Sprite3D.lua" timestamp="1465125838742" lastAccessTime="1465125940103"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/SpriteBatchNode.lua" timestamp="1465125838743" lastAccessTime="1465125940153"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/SpriteDisplayData.lua" timestamp="1465125838744" lastAccessTime="1465125940203"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/SpriteFrame.lua" timestamp="1465125838746" lastAccessTime="1465125940253"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/SpriteFrameCache.lua" timestamp="1465125838747" lastAccessTime="1465125940304"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/StopGrid.lua" timestamp="1465125838748" lastAccessTime="1465125940355"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/TMXLayer.lua" timestamp="1465125838759" lastAccessTime="1465125940405"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/TMXLayerInfo.lua" timestamp="1465125838760" lastAccessTime="1465125940455"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/TMXMapInfo.lua" timestamp="1465125838761" lastAccessTime="1465125940505"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/TMXObjectGroup.lua" timestamp="1465125838762" lastAccessTime="1465125940555"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/TMXTiledMap.lua" timestamp="1465125838763" lastAccessTime="1465125940605"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/TMXTilesetInfo.lua" timestamp="1465125838764" lastAccessTime="1465125940656"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/TableView.lua" timestamp="1465125838766" lastAccessTime="1465125940706"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/TableViewCell.lua" timestamp="1465125838767" lastAccessTime="1465125940756"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/TargetedAction.lua" timestamp="1465125838768" lastAccessTime="1465125940806"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/Text.lua" timestamp="1465125838769" lastAccessTime="1465125940856"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/TextAtlas.lua" timestamp="1465125838770" lastAccessTime="1465125940906"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/TextBMFont.lua" timestamp="1465125838771" lastAccessTime="1465125940956"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/TextField.lua" timestamp="1465125838772" lastAccessTime="1465125941006"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/Texture2D.lua" timestamp="1465125838773" lastAccessTime="1465125941056"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/TextureCache.lua" timestamp="1465125838775" lastAccessTime="1465125941106"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/TextureData.lua" timestamp="1465125838776" lastAccessTime="1465125941156"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/TextureFrame.lua" timestamp="1465125838777" lastAccessTime="1465125941206"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/TileMapAtlas.lua" timestamp="1465125838778" lastAccessTime="1465125941256"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/TiledGrid3D.lua" timestamp="1465125838779" lastAccessTime="1465125941306"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/TiledGrid3DAction.lua" timestamp="1465125838781" lastAccessTime="1465125941356"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/Timeline.lua" timestamp="1465125838782" lastAccessTime="1465125941406"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/Timer.lua" timestamp="1465125838783" lastAccessTime="1465125941456"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/TintBy.lua" timestamp="1465125838784" lastAccessTime="1465125941506"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/TintTo.lua" timestamp="1465125838785" lastAccessTime="1465125941556"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/ToggleVisibility.lua" timestamp="1465125838786" lastAccessTime="1465125941606"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/Touch.lua" timestamp="1465125838787" lastAccessTime="1465125941656"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/TransitionCrossFade.lua" timestamp="1465125838827" lastAccessTime="1465125941706"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/TransitionEaseScene.lua" timestamp="1465125838828" lastAccessTime="1465125941756"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/TransitionFade.lua" timestamp="1465125838830" lastAccessTime="1465125941806"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/TransitionFadeBL.lua" timestamp="1465125838831" lastAccessTime="1465125941856"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/TransitionFadeDown.lua" timestamp="1465125838832" lastAccessTime="1465125941910"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/TransitionFadeTR.lua" timestamp="1465125838833" lastAccessTime="1465125941962"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/TransitionFadeUp.lua" timestamp="1465125838834" lastAccessTime="1465125942012"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/TransitionFlipAngular.lua" timestamp="1465125838835" lastAccessTime="1465125942062"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/TransitionFlipX.lua" timestamp="1465125838836" lastAccessTime="1465125942112"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/TransitionFlipY.lua" timestamp="1465125838837" lastAccessTime="1465125942162"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/TransitionJumpZoom.lua" timestamp="1465125838838" lastAccessTime="1465125942213"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/TransitionMoveInB.lua" timestamp="1465125838839" lastAccessTime="1465125942263"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/TransitionMoveInL.lua" timestamp="1465125838841" lastAccessTime="1465125942313"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/TransitionMoveInR.lua" timestamp="1465125838842" lastAccessTime="1465125942363"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/TransitionMoveInT.lua" timestamp="1465125838843" lastAccessTime="1465125942414"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/TransitionPageTurn.lua" timestamp="1465125838844" lastAccessTime="1465125942465"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/TransitionProgress.lua" timestamp="1465125838845" lastAccessTime="1465125942515"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/TransitionProgressHorizontal.lua" timestamp="1465125838846" lastAccessTime="1465125942566"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/TransitionProgressInOut.lua" timestamp="1465125838847" lastAccessTime="1465125942616"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/TransitionProgressOutIn.lua" timestamp="1465125838848" lastAccessTime="1465125942667"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/TransitionProgressRadialCCW.lua" timestamp="1465125838849" lastAccessTime="1465125942717"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/TransitionProgressRadialCW.lua" timestamp="1465125838850" lastAccessTime="1465125942768"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/TransitionProgressVertical.lua" timestamp="1465125838851" lastAccessTime="1465125942819"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/TransitionRotoZoom.lua" timestamp="1465125838852" lastAccessTime="1465125942870"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/TransitionScene.lua" timestamp="1465125838854" lastAccessTime="1465125942920"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/TransitionSceneOriented.lua" timestamp="1465125838855" lastAccessTime="1465125942971"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/TransitionShrinkGrow.lua" timestamp="1465125838856" lastAccessTime="1465125943021"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/TransitionSlideInB.lua" timestamp="1465125838857" lastAccessTime="1465125943071"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/TransitionSlideInL.lua" timestamp="1465125838858" lastAccessTime="1465125943121"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/TransitionSlideInR.lua" timestamp="1465125838859" lastAccessTime="1465125943171"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/TransitionSlideInT.lua" timestamp="1465125838860" lastAccessTime="1465125943222"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/TransitionSplitCols.lua" timestamp="1465125838862" lastAccessTime="1465125943272"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/TransitionSplitRows.lua" timestamp="1465125838863" lastAccessTime="1465125943322"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/TransitionTurnOffTiles.lua" timestamp="1465125838864" lastAccessTime="1465125943372"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/TransitionZoomFlipAngular.lua" timestamp="1465125838865" lastAccessTime="1465125943422"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/TransitionZoomFlipX.lua" timestamp="1465125838866" lastAccessTime="1465125943472"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/TransitionZoomFlipY.lua" timestamp="1465125838867" lastAccessTime="1465125943522"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/TurnOffTiles.lua" timestamp="1465125838868" lastAccessTime="1465125943572"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/Tween.lua" timestamp="1465125838869" lastAccessTime="1465125943622"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/Twirl.lua" timestamp="1465125838871" lastAccessTime="1465125943672"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/UserDefault.lua" timestamp="1465125838872" lastAccessTime="1465125943722"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/VBox.lua" timestamp="1465125838873" lastAccessTime="1465125943772"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/VideoPlayer.lua" timestamp="1465125838879" lastAccessTime="1465125943822"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/VisibleFrame.lua" timestamp="1465125838880" lastAccessTime="1465125943872"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/Waves.lua" timestamp="1465125838881" lastAccessTime="1465125943922"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/Waves3D.lua" timestamp="1465125838883" lastAccessTime="1465125943972"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/WavesTiles3D.lua" timestamp="1465125838884" lastAccessTime="1465125944022"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/Widget.lua" timestamp="1465125838885" lastAccessTime="1465125944072"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/ZOrderFrame.lua" timestamp="1465125838887" lastAccessTime="1465125944123"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/lua_cocos2dx_3d_auto_api.lua" timestamp="1465125838898" lastAccessTime="1465125944173"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/lua_cocos2dx_assetsmanager_auto_api.lua" timestamp="1465125838899" lastAccessTime="1465125944223"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/lua_cocos2dx_audioengine_auto_api.lua" timestamp="1465125838901" lastAccessTime="1465125944273"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/lua_cocos2dx_auto_api.lua" timestamp="1465125838902" lastAccessTime="1465125944323"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/lua_cocos2dx_cocosbuilder_auto_api.lua" timestamp="1465125838903" lastAccessTime="1465125944374"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/lua_cocos2dx_cocosdenshion_auto_api.lua" timestamp="1465125838904" lastAccessTime="1465125944424"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/lua_cocos2dx_controller_auto_api.lua" timestamp="1465125838920" lastAccessTime="1465125944474"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/lua_cocos2dx_csloader_auto_api.lua" timestamp="1465125838922" lastAccessTime="1465125944524"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/lua_cocos2dx_experimental_auto_api.lua" timestamp="1465125838923" lastAccessTime="1465125944574"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/lua_cocos2dx_experimental_video_auto_api.lua" timestamp="1465125838924" lastAccessTime="1465125944624"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/lua_cocos2dx_extension_auto_api.lua" timestamp="1465125838925" lastAccessTime="1465125944674"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/lua_cocos2dx_physics_auto_api.lua" timestamp="1465125838926" lastAccessTime="1465125944724"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/lua_cocos2dx_spine_auto_api.lua" timestamp="1465125838927" lastAccessTime="1465125944774"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/lua_cocos2dx_studio_auto_api.lua" timestamp="1465125838928" lastAccessTime="1465125944824"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/auto/api/lua_cocos2dx_ui_auto_api.lua" timestamp="1465125838930" lastAccessTime="1465125944874"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/script/init.lua" timestamp="1465125860010" lastAccessTime="1465125949703"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/script" timestamp="1465125860018" lastAccessTime="1465125949703">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="959585215/4057349312/57.idx"/>
+  </entries>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/script/cocos2d/Cocos2d.lua" timestamp="1465125859927" lastAccessTime="1465125947175"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/script/cocos2d" timestamp="1465125859949" lastAccessTime="1465125947825">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="959585215/2383418356/59.idx"/>
+  </entries>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/script/cocos2d/Cocos2dConstants.lua" timestamp="1465125859928" lastAccessTime="1465125947225"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/script/cocos2d/DeprecatedCocos2dClass.lua" timestamp="1465125859929" lastAccessTime="1465125947275"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/script/cocos2d/DeprecatedCocos2dEnum.lua" timestamp="1465125859931" lastAccessTime="1465125947325"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/script/cocos2d/DeprecatedCocos2dFunc.lua" timestamp="1465125859938" lastAccessTime="1465125947375"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/script/cocos2d/DeprecatedOpenglEnum.lua" timestamp="1465125859939" lastAccessTime="1465125947425"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/script/cocos2d/DrawPrimitives.lua" timestamp="1465125859940" lastAccessTime="1465125947475"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/script/cocos2d/Opengl.lua" timestamp="1465125859941" lastAccessTime="1465125947525"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/script/cocos2d/OpenglConstants.lua" timestamp="1465125859943" lastAccessTime="1465125947575"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/script/cocos2d/bitExtend.lua" timestamp="1465125859944" lastAccessTime="1465125947625"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/script/cocos2d/extern.lua" timestamp="1465125859946" lastAccessTime="1465125947675"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/script/cocos2d/json.lua" timestamp="1465125859947" lastAccessTime="1465125947725"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/script/cocos2d/luaj.lua" timestamp="1465125859948" lastAccessTime="1465125947775"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/script/cocos2d/luaoc.lua" timestamp="1465125859949" lastAccessTime="1465125947825"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/script/cocosbuilder/CCBReaderLoad.lua" timestamp="1465125859950" lastAccessTime="1465125948023"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/script/cocosbuilder" timestamp="1465125859951" lastAccessTime="1465125948073">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="959585215/2383418356/61.idx"/>
+  </entries>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/script/cocosbuilder/DeprecatedCocosBuilderClass.lua" timestamp="1465125859951" lastAccessTime="1465125948073"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/script/cocosdenshion/AudioEngine.lua" timestamp="1465125859953" lastAccessTime="1465125948322"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/script/cocosdenshion" timestamp="1465125859955" lastAccessTime="1465125948422">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="959585215/2383418356/63.idx"/>
+  </entries>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/script/cocosdenshion/DeprecatedCocosDenshionClass.lua" timestamp="1465125859954" lastAccessTime="1465125948372"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/script/cocosdenshion/DeprecatedCocosDenshionFunc.lua" timestamp="1465125859955" lastAccessTime="1465125948422"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/script/cocostudio/CocoStudio.lua" timestamp="1465125859957" lastAccessTime="1465125948924"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/script/cocostudio" timestamp="1465125859992" lastAccessTime="1465125949074">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="959585215/2383418356/65.idx"/>
+  </entries>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/script/cocostudio/DeprecatedCocoStudioClass.lua" timestamp="1465125859959" lastAccessTime="1465125948974"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/script/cocostudio/DeprecatedCocoStudioFunc.lua" timestamp="1465125859991" lastAccessTime="1465125949024"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/script/cocostudio/StudioConstants.lua" timestamp="1465125859992" lastAccessTime="1465125949074"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/script/controller/ControllerConstants.lua" timestamp="1465125859998" lastAccessTime="1465125949186"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/script/controller" timestamp="1465125859998" lastAccessTime="1465125949186">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="959585215/2383418356/67.idx"/>
+  </entries>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/script/extension/DeprecatedExtensionClass.lua" timestamp="1465125860001" lastAccessTime="1465125949502"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/script/extension" timestamp="1465125860007" lastAccessTime="1465125949653">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="959585215/2383418356/69.idx"/>
+  </entries>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/script/extension/DeprecatedExtensionEnum.lua" timestamp="1465125860003" lastAccessTime="1465125949552"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/script/extension/DeprecatedExtensionFunc.lua" timestamp="1465125860005" lastAccessTime="1465125949602"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/script/extension/ExtensionConstants.lua" timestamp="1465125860007" lastAccessTime="1465125949653"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/script/network/DeprecatedNetworkClass.lua" timestamp="1465125860012" lastAccessTime="1465125949993"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/script/network" timestamp="1465125860016" lastAccessTime="1465125950143">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="959585215/2383418356/71.idx"/>
+  </entries>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/script/network/DeprecatedNetworkEnum.lua" timestamp="1465125860013" lastAccessTime="1465125950043"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/script/network/DeprecatedNetworkFunc.lua" timestamp="1465125860015" lastAccessTime="1465125950093"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/script/network/NetworkConstants.lua" timestamp="1465125860016" lastAccessTime="1465125950143"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/script/spine/SpineConstants.lua" timestamp="1465125860017" lastAccessTime="1465125950247"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/script/spine" timestamp="1465125860017" lastAccessTime="1465125950247">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="959585215/2383418356/73.idx"/>
+  </entries>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/script/ui/DeprecatedUIEnum.lua" timestamp="1465125860019" lastAccessTime="1465125950680"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/script/ui" timestamp="1465125860022" lastAccessTime="1465125950831">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="959585215/2383418356/75.idx"/>
+  </entries>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/script/ui/DeprecatedUIFunc.lua" timestamp="1465125860020" lastAccessTime="1465125950731"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/script/ui/GuiConstants.lua" timestamp="1465125860021" lastAccessTime="1465125950781"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/cocos/scripting/lua-bindings/script/ui/experimentalUIConstants.lua" timestamp="1465125860022" lastAccessTime="1465125950831"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/external/lua/luajit/src/dynasm/dasm_arm.lua" timestamp="1465125860325" lastAccessTime="1465125952460"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/external/lua/luajit/src/dynasm" timestamp="1465125860341" lastAccessTime="1465125952713">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="959585215/1856676107/77.idx"/>
+  </entries>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/external/lua/luajit/src/dynasm/dasm_mips.lua" timestamp="1465125860329" lastAccessTime="1465125952511"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/external/lua/luajit/src/dynasm/dasm_ppc.lua" timestamp="1465125860333" lastAccessTime="1465125952562"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/external/lua/luajit/src/dynasm/dasm_x64.lua" timestamp="1465125860336" lastAccessTime="1465125952613"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/external/lua/luajit/src/dynasm/dasm_x86.lua" timestamp="1465125860340" lastAccessTime="1465125952663"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/external/lua/luajit/src/dynasm/dynasm.lua" timestamp="1465125860341" lastAccessTime="1465125952713"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/external/lua/luajit/src/src/host/genminilua.lua" timestamp="1465125860413" lastAccessTime="1465125952763"/>
+  <entries path="E:/git-jsby/jsby/jsby/frameworks/cocos2d-x/external/lua/luajit/src/src/host" timestamp="1465125860416" lastAccessTime="1465125952763">
+    <attributes name=".dltk.core.archive.cache.lastaccess" location="959585215/3075028353/79.idx"/>
+  </entries>
+</cache:CacheIndex>

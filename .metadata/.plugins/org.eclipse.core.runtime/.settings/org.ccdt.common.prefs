@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+org.ccdt.common.jdk_path=C\:\\Program Files\\Java\\jdk1.8.0_71\\bin
+org.ccdt.common.lua_engine_custompath=D\:\\cocos\\cocos2d-x-3.3
+org.ccdt.common.lua_engine_path=D\:\\cocos\\cocos2d-x-3.3
+org.ccdt.common.mode=engine
+org.ccdt.common.python_path=C\:\\Python27
+org.ccdt.common.quick_custompath=D\:\\tools\\cocos-lua\\quick-3.3
+org.ccdt.common.quick_path=D\:\\tools\\cocos-lua\\quick-3.3
